@@ -1,2 +1,2 @@
-# Plate-detect-system
-This is a OpenCV project.
+# Muke fron-end project
+This is a fron-end project.
